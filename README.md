@@ -17,7 +17,7 @@ In this project, I built a multi-page, responsive, and sleek website to display 
   
 In order to accomplish these goals I used the following:
 - HTML/CSS
-- bootstrap to obtain develop responsive and visually pleasing web pages
+- Bootstrap to obtain develop responsive and visually pleasing web pages
 - Python to convert a CSV into an HTML table
  
  
